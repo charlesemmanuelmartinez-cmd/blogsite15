@@ -1,7 +1,6 @@
-"Command for GitHub" 
-
+"Command for GitHub"
 git init
-git add .
-igit commit -m "Explainations
+git add
+git commit -m "Explainations"
 git push
 
