@@ -1,0 +1,7 @@
+"Command for GitHub" 
+
+git init
+git add .
+igit commit -m "Explainations
+git push
+
